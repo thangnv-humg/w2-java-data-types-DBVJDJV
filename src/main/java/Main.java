@@ -1,5 +1,5 @@
 public class Main {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         // TODO: Khai báo biến và viết chương trình theo yêu cầu trong README.md
 
         // Ví dụ:
